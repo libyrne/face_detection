@@ -1,0 +1,6 @@
+<launch>
+    <include file="$(find vz_ros_wrappers)/launch/D435i_and_Lepton.launch"/>
+    <node pkg="face_detection_pkg" type="find_roi.py" name="Face_Detection" output="screen"/>
+    <param name="rgbd_topic" type="string" value="/D435i/image_raw" />
+    <param name="roi_topic" type="string" value="/ROI" />
+  </launch>

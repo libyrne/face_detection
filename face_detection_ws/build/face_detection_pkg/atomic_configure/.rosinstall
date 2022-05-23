@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lisa/face_detection_ws/devel/.private/face_detection_pkg/setup.sh

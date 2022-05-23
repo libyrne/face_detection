@@ -1,0 +1,1 @@
+/home/lisa/face_detection_ws/devel/.private/face_detection_pkg/share/face_detection_pkg/cmake/face_detection_pkgConfig.cmake

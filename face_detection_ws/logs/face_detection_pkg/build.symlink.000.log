@@ -1,0 +1,3 @@
+Symlinking /home/lisa/face_detection_ws/devel/lib/pkgconfig/face_detection_pkg.pc
+Symlinking /home/lisa/face_detection_ws/devel/share/face_detection_pkg/cmake/face_detection_pkgConfig-version.cmake
+Symlinking /home/lisa/face_detection_ws/devel/share/face_detection_pkg/cmake/face_detection_pkgConfig.cmake
